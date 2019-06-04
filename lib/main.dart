@@ -85,7 +85,7 @@ class MyApp extends StatelessWidget {
                     title: Text(
                       'craig.damlo@soapboxrocket.com',
                       style: TextStyle(
-                        fontSize: 19,
+                        fontSize: 16,
                         color: Colors.black,
                         fontFamily: 'Source Sans Pro',
                       ),
